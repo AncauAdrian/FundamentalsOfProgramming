@@ -1,0 +1,8 @@
+1, Math
+2, English
+3, History
+4, Geography
+5, Physics
+6, Chemistry
+7, Economy
+8, Biology
